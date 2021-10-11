@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="Unit">Unit</string>
+    <string name="basic_button">Basic</string>
+    <string name="currency_button">currency</string>
+    <string name="display_calc">0</string>
+</resources>
